@@ -9,9 +9,6 @@
 Made in collaboration with:
 
 Rishi Basdeo,
-
 Milan Copic,
-
 Karanveer Singh,
-
 Aditya Ramakrishnan
